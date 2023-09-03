@@ -1,0 +1,34 @@
+.font-1-x{
+  font-family: 'Barlow', sans-serif;
+  font-size: 56px;
+  font-weight: 900;
+}
+
+.font-1-l{
+  font-family: 'Barlow', sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 1.125;
+  text-transform: uppercase;
+}
+
+.font-1-s{
+  font-family: 'Barlow', sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 1.166;
+}
+
+.font-1-b{
+  font-family: 'Barlow', sans-serif;
+  font-size: 16px;
+  line-height: 1.625;
+  font-weight: 400;
+}
+
+
+@media (max-width:768px){
+  .font-1-x{
+    font-size: 48px;
+  }
+}
